@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Templates/Scene Archive/Debug.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: f3e8cd91b246175459a0d0dd0b7869ba
+  - enabled: 1
+    path: Assets/Scenes/White Level.unity
+    guid: c3e26f9f259ce5944bf04ca0bb90bf68
+  - enabled: 1
+    path: Assets/Scenes/ResultsScreen.unity
+    guid: 0ca80ef74fc7b264b8c370c5d1c72798
+  - enabled: 0
+    path: Assets/Scenes/Developer Spesific/Daniel/TestLevel.unity
+    guid: 0f80b2d5f15ce644a95b0817fd25caef
+  - enabled: 1
+    path: Assets/Scenes/Menus/Pause Menu.unity
+    guid: 91f2ff1614285f44bac43bbe5a3e5f06
+  - enabled: 1
+    path: Assets/Scenes/Menus/Settings Menu.unity
+    guid: 4ed5617c624a22f41b394ab4383e977a
+  m_configObjects: {}

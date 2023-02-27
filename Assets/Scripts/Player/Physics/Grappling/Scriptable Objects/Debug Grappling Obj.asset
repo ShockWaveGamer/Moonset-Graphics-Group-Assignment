@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b239fc5dd4a74a4f8cc92b18898a8a1, type: 3}
+  m_Name: Debug Grappling Obj
+  m_EditorClassIdentifier: 
+  hookPrefab: {fileID: 2317133558453492672, guid: 9aed8ce02ae927442ab8562374460420,
+    type: 3}
+  minLength: 10
+  maxLength: 75
+  maxDistanceMultiple: 0.8
+  minDistanceMultiple: 0.25
+  springForce: 4.5
+  damperForce: 7.5
+  massScale: 15
+  lungeForce: 5
+  lungeGravityComp: 0.35
+  scaleSpeed: 2
