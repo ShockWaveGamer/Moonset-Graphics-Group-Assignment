@@ -7,9 +7,23 @@ Unfortunatly we were unable to port the individual assignment shaders from SRP t
 # Statement of Contributions
 ## Constantine Pallas:
 - [x] Individual Assignment Shaders (Secondary Project)
-- [x] Particle System  (Unity path to shader)
-- [x] Palette Shader  (Unity path to shader)
+- [x] Particle System (Assets/Particle)
+- [x] Palette Shader (Assets/Shaders/Outline And Palette)
 ## Daniel Fiuk:
 - [x] Individual Assignment Shaders (Secondary Project)
-- [x] Water Shader  (Unity path to shader)
-- [x] Decal Shader  (Unity path to shader)
+- [x] Water Shader (Assets/Shaders/DanielsGroupAssignmentShaders/Water)
+- [x] Decal Shader  (Assets/Shaders/DanielsGroupAssignmentShaders/Decals)
+- [x] Fog Post Process (Assets/Shaders/DanielsGroupAssignmentShaders/Fog)
+
+note: our post-processing effects use an external package called Blit Material Feature to work. All this does in our case is restore a feature removed in URP called Custom Post-Process [Cyanilux/URP_BlitRenderFeature](https://github.com/Cyanilux/URP_BlitRenderFeature)
+
+### Particle System
+ 
+### Palette Shader
+ 
+### Water Shader
+ 
+### Decal Shader
+ 
+### Fog Shader
+ 
