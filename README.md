@@ -6,10 +6,10 @@ Unfortunatly we were unable to port the individual assignment shaders from SRP t
 
 # Statement of Contributions
 Constantine Pallas:
-	- [x] Individual Assignment Shaders (Secondary Project)
-	- [x] Particle System  (Unity path to shader)
-	- [x] Palette Shader  (Unity path to shader)
+- [x] Individual Assignment Shaders (Secondary Project)
+- [x] Particle System  (Unity path to shader)
+- [x] Palette Shader  (Unity path to shader)
 Daniel Fiuk:
-	- [x] Individual Assignment Shaders (Secondary Project)
-	- [x] Water Shader  (Unity path to shader)
-	- [x] Decal Shader  (Unity path to shader)
+- [x] Individual Assignment Shaders (Secondary Project)
+- [x] Water Shader  (Unity path to shader)
+- [x] Decal Shader  (Unity path to shader)
